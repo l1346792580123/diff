@@ -4,3 +4,4 @@ Code for [Efficient Textured Mesh Recovery from Multiple Views with Differentiab
 
 
 # Framework
+![framework](https://github.com/l1346792580123/diff/blob/main/fig/overview.png)
