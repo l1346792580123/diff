@@ -8,6 +8,8 @@ Code for [Efficient Textured Mesh Recovery from Multiple Views with Differentiab
 
 
 # Requirements
-![pytorch](https://pytorch.org/)
+[pytorch](https://pytorch.org/)
 
-![nvdiffrast](https://github.com/NVlabs/nvdiffrast)
+[nvdiffrast](https://github.com/NVlabs/nvdiffrast)
+
+Download dataset from [here](https://hkustconnect-my.sharepoint.com/:u:/g/personal/jzhangbs_connect_ust_hk/EazyGuwPC5tIkbI3fgeERgEBBUXBV16_hIkud_dhS34wVw?e=CWjJGP)
