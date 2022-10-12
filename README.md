@@ -17,3 +17,16 @@ Code for [Multiview Textured Mesh Recovery by Differentiable Rendering ](https:/
 [nvdiffrast](https://github.com/NVlabs/nvdiffrast)
 
 Download dataset from [here](https://hkustconnect-my.sharepoint.com/:u:/g/personal/jzhangbs_connect_ust_hk/EazyGuwPC5tIkbI3fgeERgEBBUXBV16_hIkud_dhS34wVw?e=CWjJGP)
+
+## Citation
+```
+@ARTICLE{9915626,
+  author={Lin, Lixiang and Zhu, Jianke and Zhang, Yisu},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Multiview Textured Mesh Recovery by Differentiable Rendering}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TCSVT.2022.3213543}}
+```
