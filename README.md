@@ -16,7 +16,7 @@ Code for [Multiview Textured Mesh Recovery by Differentiable Rendering ](https:/
 
 [nvdiffrast](https://github.com/NVlabs/nvdiffrast)
 
-Download dataset from [here](https://hkustconnect-my.sharepoint.com/:u:/g/personal/jzhangbs_connect_ust_hk/EazyGuwPC5tIkbI3fgeERgEBBUXBV16_hIkud_dhS34wVw?e=CWjJGP)
+Download dataset from [here](https://huggingface.co/datasets/jzhangbs/mvsdf_dtu)
 
 ## Citation
 ```
